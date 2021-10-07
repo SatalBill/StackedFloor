@@ -1,0 +1,31 @@
+body,
+button,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+html,
+li,
+p,
+input {
+  font-family: "Karla-Regular", sans-serif;
+}
+
+/* @font-face {
+  font-family: 'TisaSansProBold';
+  src: local('MyFont'), url(./fonts/TisaSansPro-Bold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TisaSansProLight';
+  src: local('MyFont'), url(./fonts/TisaSansPro-Light.ttf) format('truetype');
+} */
+/* @font-face {
+  font-family: 'TisaSansPro-Medium';
+  src: local('TisaSansPro-Medium'), url(./fonts/TisaSansPro-Medium.ttf) format('truetype');
+} */
+/* @font-face {
+  font-family: 'TisaSansProRegular';
+  src: local('MyFont'), url(./fonts/TisaSansPro-Regular.ttf) format('truetype');
+} */
